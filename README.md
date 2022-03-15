@@ -1,13 +1,13 @@
-### Hi there 👋
 
-  Olá eu sou o Patrine Medeiros Ferreira!!
+
+ 👋 Olá eu sou o Patrine Medeiros Ferreira!!
   
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Open-Ui5
 - 🌱 Estudando JavaScript
 - 😄 Estudando Inglês
 
-# Patrine Medeiros Ferreira!
+# Patrine Medeiros Ferreira!👨‍💻
 <div align="center">
   <a href="https://github.com/Patrinee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrinee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
